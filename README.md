@@ -10,9 +10,9 @@ I am a final-year student at BIT, with a strong foundation in web development. O
 
 This portfolio includes the following projects:
 
-- **Project 1**: A description of your first project, its features, and the technologies used.
-- **Project 2**: A description of your second project, its features, and the technologies used.
-- **Project 3**: A description of your third project, its features, and the technologies used.
+- **Secure Online Voting System**: A secure platform enabling anonymous and transparent voting using blockchain technology (e.g., Solidity, React, Node.js). Features include voter verification, encrypted voting, and real-time decentralized result display. As a front-end developer, I contributed to the UI and also had the opportunity to explore other areas of the project.
+- **E-commerce Website**: A dynamic platform for buying and selling products, built with the PERN stack (PostgreSQL, Express.js, React.js, Next.js). Features include user authentication, product management, payment integration, and admin control.
+- **Blogging site**: A content-sharing platform for creating, editing, and publishing blogs using MERN stack (MongoDB, Express.js, React.js, Node.js). Features include user registration, rich text editing, comment sections, and social sharing.
 
 ## Skills
 
@@ -25,6 +25,6 @@ This portfolio includes the following projects:
 
 Feel free to reach out to me through the following platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/bijaypaudel977)
+- [LinkedIn](https://www.linkedin.com/in/bijay-paudel-5a307b26a/)
 - [GitHub](https://github.com/Bijaypaudel977)
-- [Email](mailto:bijaypaudel977@example.com)
+- [Email](paudelbijay9844@gmail.com)
